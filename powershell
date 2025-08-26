@@ -3,5 +3,5 @@ git init
 git add .
 git commit -m "init sweet moments"
 git branch -M main
-git remote add origin https://github.com/你的用户名/sex-dairy.git
+git remote add origin https://github.com/zhanghanyu2021-web/sex-dairy.git
 git push -u origin main
